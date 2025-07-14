@@ -1,4 +1,4 @@
-console.log("hello world")
+// console.log("hello world")
 
 // // program-1
 
@@ -39,10 +39,19 @@ console.log("hello world")
 // }
 
 // program-4
-var num = 5
-var sum = 0
-for (var i=1;i<=num;i++)
+// var num = 5
+// var sum = 0
+// for (var i=1;i<=num;i++)
+// {
+//     sum+=i
+// }
+// console.log("sum of num is:",sum)
+
+// program-5
+var num = 4
+var fact = 1
+for (var i=num;i>0;i--)
 {
-    sum+=i
+    fact*=i
 }
-console.log("sum of num is:",sum)
+console.log("factoril of num is:",fact)
