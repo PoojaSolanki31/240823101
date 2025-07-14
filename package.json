@@ -1,0 +1,20 @@
+{
+  "name": "240823101",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PoojaSolanki31/240823101.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PoojaSolanki31/240823101/issues"
+  },
+  "homepage": "https://github.com/PoojaSolanki31/240823101#readme"
+}

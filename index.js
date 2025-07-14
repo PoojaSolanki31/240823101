@@ -1,0 +1,13 @@
+console.log("hello world")
+
+const name= "Pooja"
+console.log(name)
+
+const b=4
+if (b%2==0)
+{
+    console.log("number is even")
+}
+else{
+    console.log("number is odd")
+}
