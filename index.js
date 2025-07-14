@@ -11,3 +11,4 @@ if (b%2==0)
 else{
     console.log("number is odd")
 }
+console.log("how are you?")
